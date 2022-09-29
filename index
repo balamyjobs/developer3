@@ -10,4 +10,7 @@ div 1
 
 add 2
 sub 2
- 
+
+add 3
+sub 3
+mul 3 
